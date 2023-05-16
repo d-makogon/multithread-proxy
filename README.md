@@ -1,4 +1,5 @@
-# proxy
+# Multithreaded HTTP proxy implementation
+
 Build and run:
 ```
 mkdir build && cd build
